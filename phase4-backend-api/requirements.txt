@@ -1,0 +1,28 @@
+# Phase 4: Backend API Development
+# Requirements for FastAPI backend
+
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Data handling
+pandas
+
+# Dependencies from previous phases
+google-play-scraper==1.0.3
+langdetect==1.0.9
+groq
+
+# Utilities
+python-dateutil==2.8.2
+pydantic
+
+# Database and caching
+sqlalchemy
+psycopg2-binary
+redis
+
+# NLP for deterministic processing
+spacy
+textblob
+vaderSentiment

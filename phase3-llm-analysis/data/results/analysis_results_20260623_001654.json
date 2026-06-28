@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-06-23T00:16:54.059262",
+  "model_used": "llama-3.1-8b-instant",
+  "statistics": {
+    "total_reviews_analyzed": 5313,
+    "total_api_calls": 6,
+    "cache_hits": 0,
+    "cache_misses": 6,
+    "total_tokens_used": 15232,
+    "analysis_time_seconds": 107.7674491405487
+  },
+  "results": {
+    "q1": {
+      "question": "Why do users struggle to discover new music?",
+      "answer": "**Insight 1:** Users struggle with discovering new music due to the overwhelming presence of ads, which disrupt their listening experience and make it challenging to find new content.\n\n**Insight 2:** Users feel frustrated when the app's algorithms fail to deliver personalized recommendations, resulting in the same songs being played repeatedly, and a lack of control over their playlists.\n\n**Insight 3:** Users expect more control over their listening experience, including a \"dislike\" button to complement the heart feature, and the ability to organize their playlists without limitations.\n\n**Insight 4:** Users are dissatisfied with the app's performance, citing crashes, lag, and glitches, which hinder their ability to enjoy music on their preferred devices, including smartphones, desktops, and cars.\n\n**Insight 5:** Users value the app's collection and features, but feel that the experience has degraded over time, leading to a loss of trust and loyalty, and prompting some users to consider switching to alternative music streaming services.",
+      "cached": false,
+      "reviews_analyzed": 20
+    },
+    "q2": {
+      "question": "What are the most common frustrations with recommendations?",
+      "answer": "**Frustrations with Recommendations:**\n\n* Users are consistently frustrated with ads interrupting their listening experience, with some complaining about excessive ad frequency and repetition.\n* Many users feel that Spotify's algorithms are not delivering relevant recommendations, with some complaining about being recommended music they dislike.\n* Some users are frustrated with the \"Shuffle\" feature not actually shuffling the playlist, leading to repetition and annoyance.\n* The inconsistent performance of the app, including freezing and crashing, is also a significant concern.",
+      "cached": false,
+      "reviews_analyzed": 20
+    },
+    "q3": {
+      "question": "What listening behaviors are users trying to achieve?",
+      "answer": "**Listening Behaviors:**\n\nUsers are trying to achieve seamless music streaming with minimal interruptions and ads. Many users value the ability to create playlists and queues, but are frustrated with limitations and bugs in these features. Some users also want to skip or dislike songs without affecting their playlists. Users expect a reliable and responsive app that loads quickly and syncs across devices.",
+      "cached": false,
+      "reviews_analyzed": 20
+    },
+    "q4": {
+      "question": "What causes users to repeatedly listen to the same content?",
+      "answer": "**Users are repeatedly listening to the same content due to a sense of familiarity and comfort, but also because of frustration with the app's performance and advertising.**\n\n* Users are driven to repeat content due to the app's inconsistent performance, such as ads playing too frequently, ads skipping, and songs not loading properly.\n* The app's inability to deliver a seamless listening experience, such as constant disconnections and slow loading times, contributes to users' reliance on familiar content.\n* Users are also frustrated with the app's aggressive advertising, which can disrupt their listening experience and lead to a negative perception of the brand.\n* To retain users, Spotify must prioritize improving the app's performance, reducing advertising frequency, and enhancing the overall listening experience.",
+      "cached": false,
+      "reviews_analyzed": 20
+    },
+    "q5": {
+      "question": "Which user segments experience different discovery challenges?",
+      "answer": "**Insight 1: Frequent Users Experience Loading and Connection Issues**\nHeavy users (e.g., user 2 who listens 4-5 hours a day) report frequent loading and connection issues, indicating a need for improved app performance and reliability.\n\n**Insight 2: Discovery Challenges Differ Across User Segments**\nMusicians (e.g., user 4) express frustration with the lack of a \"dislike\" button, while casual listeners (e.g., user 1) complain about ads and discovery issues, highlighting the need for personalized discovery features.\n\n**Insight 3: User Interface and Navigation Issues**\nUsers (e.g., user 8, user 17) report UI issues, such as glitches and discrepancies between web and mobile clients, indicating a need for improved user experience and interface design.\n\n**Insight 4: Feature Requests and Unmet Needs**\nUsers (e.g., user 3, user 10) request features like a \"dislike\" button, improved playlist management, and reduced ad frequency, highlighting the need to prioritize user needs and preferences in product development.",
+      "cached": false,
+      "reviews_analyzed": 20
+    },
+    "q6": {
+      "question": "What unmet needs emerge consistently across reviews?",
+      "answer": "**Unmet Needs:**\n\nUsers consistently express frustration with ads, citing excessive frequency, repetition, and immersion-breaking experiences. They desire more control over ads, with some suggesting a limit of 1-2 ads after 3 songs. Users also want features like a dislike button to complement the heart system, and more precise playlist organization and queue management. These unmet needs highlight the need for a more balanced and user-centric advertising experience and improved playlist management tools.",
+      "cached": false,
+      "reviews_analyzed": 20
+    }
+  }
+}

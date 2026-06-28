@@ -1,0 +1,14 @@
+# Phase 2: Data Preprocessing & Cleaning
+# Requirements for data cleaning pipeline and quality metrics
+
+# Data processing
+pandas
+
+# Language detection
+langdetect==1.0.9
+
+# Optional: Data visualization (for metrics)
+matplotlib
+
+# Utilities
+python-dateutil==2.8.2

@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-06-23T00:13:48.728571",
+  "model_used": "llama-3.1-8b-instant",
+  "statistics": {
+    "total_reviews_analyzed": 5313,
+    "total_api_calls": 0,
+    "cache_hits": 0,
+    "cache_misses": 6,
+    "total_tokens_used": 0,
+    "analysis_time_seconds": 21.053669214248657
+  },
+  "results": {
+    "q1": {
+      "question": "Why do users struggle to discover new music?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11310, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    },
+    "q2": {
+      "question": "What are the most common frustrations with recommendations?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11310, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    },
+    "q3": {
+      "question": "What listening behaviors are users trying to achieve?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11310, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    },
+    "q4": {
+      "question": "What causes users to repeatedly listen to the same content?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11312, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    },
+    "q5": {
+      "question": "Which user segments experience different discovery challenges?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11309, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    },
+    "q6": {
+      "question": "What unmet needs emerge consistently across reviews?",
+      "answer": "Analysis failed: Groq API call failed after 3 attempts: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kqfmwqz6ecnvcz51nf06jxgh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11310, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "cached": false,
+      "reviews_analyzed": 0
+    }
+  }
+}

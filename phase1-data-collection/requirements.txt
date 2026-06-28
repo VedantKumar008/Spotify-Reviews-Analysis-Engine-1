@@ -1,0 +1,11 @@
+# Phase 1: Data Collection & Storage
+# Requirements for Spotify review data collection from Google Play Store
+
+# Google Play Store scraper
+google-play-scraper==1.0.3
+
+# Data handling (using pre-built wheels)
+pandas
+
+# Utilities
+python-dateutil==2.8.2

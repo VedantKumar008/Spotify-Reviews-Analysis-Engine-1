@@ -1,0 +1,71 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+.next/
+out/
+.vercel/
+.turbo/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Data files (large datasets)
+phase2-data-cleaning/data/raw/
+phase2-data-cleaning/data/processed/*.json
+!phase2-data-cleaning/data/processed/.gitkeep
+
+# Cache
+phase3-llm-analysis/data/cache/
+phase4-backend-api/data/results/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+# Phase 3: LLM Integration & Analysis
+# Requirements for Groq LLM analysis
+
+# Groq API client
+groq
+
+# Data handling
+pandas
+
+# Utilities
+python-dateutil==2.8.2

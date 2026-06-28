@@ -1,0 +1,25 @@
+# Render deployment configuration for Spotify Reviews Analysis Engine Backend
+
+services:
+  # Backend API Service
+  - type: web
+    name: spotify-reviews-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        fromDatabase:
+          name: spotify-reviews-db
+          property: connectionString
+    autoDeploy: false
+
+databases:
+  # PostgreSQL Database
+  - name: spotify-reviews-db
+    plan: free
+    databaseName: spotify_reviews
+    user: spotify_user
