@@ -62,8 +62,6 @@ logs/
 
 # Data files (large datasets)
 phase2-data-cleaning/data/raw/
-phase2-data-cleaning/data/processed/*.json
-!phase2-data-cleaning/data/processed/.gitkeep
 
 # Cache
 phase3-llm-analysis/data/cache/

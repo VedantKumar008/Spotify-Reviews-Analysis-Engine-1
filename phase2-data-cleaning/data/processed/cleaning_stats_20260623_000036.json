@@ -1,0 +1,10 @@
+{
+  "total_reviews": 10000,
+  "removed_duplicates": 0,
+  "removed_spam": 4684,
+  "removed_too_short": 1,
+  "removed_too_long": 0,
+  "removed_non_english": 2,
+  "removed_empty_content": 0,
+  "final_count": 5313
+}
