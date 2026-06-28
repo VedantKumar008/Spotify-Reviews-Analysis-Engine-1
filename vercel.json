@@ -1,5 +1,9 @@
 {
   "version": 2,
+  "buildCommand": "cd phase5-frontend && npm install",
+  "outputDirectory": "phase5-frontend/.next",
+  "installCommand": "cd phase5-frontend && npm install",
+  "framework": "nextjs",
   "builds": [
     {
       "src": "phase5-frontend/package.json",
@@ -13,6 +17,9 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_API_URL": "@backend-api-url"
+    "NEXT_PUBLIC_API_URL": {
+      "description": "Backend API URL (e.g., https://your-backend.onrender.com)",
+      "value": ""
+    }
   }
 }
